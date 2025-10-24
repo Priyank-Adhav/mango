@@ -13,7 +13,7 @@ window#waybar {
 }
 
 tooltip {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-radius: 4px;
   border-width: 2px;
   border-style: solid;
@@ -57,7 +57,7 @@ tooltip {
   margin-left: 4px;
   padding-left: 10px;
   padding-right: 6px;
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
 
 }
 
@@ -118,7 +118,7 @@ tooltip {
   margin-left: 4px;
   padding-left: 10px;
   padding-right: 6px;
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
 
 }
 
@@ -181,7 +181,7 @@ tooltip {
 }
 
 #tray {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-radius: 4px;
   border-width: 2px;
   border-style: solid;
@@ -195,7 +195,7 @@ tooltip {
 }
 
 #network {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-radius: 4px;
   border-width: 2px;
   border-style: solid;
@@ -209,7 +209,7 @@ tooltip {
 }
 
 #workspaces {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-radius: 4px;
   border-width: 2px;
   border-style: solid;
@@ -220,7 +220,7 @@ tooltip {
 }
 
 #language {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -238,7 +238,7 @@ tooltip {
 }
 
 #custom-updates {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-radius: 0px 4px 4px 0px;
   border-width: 2px;
@@ -248,7 +248,7 @@ tooltip {
 }
 
 #window {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-width: 2px;
   border-style: solid;
   border-color: #c9b890;
@@ -259,7 +259,7 @@ tooltip {
 }
 
 #taskbar {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-width: 2px;
   border-style: solid;
   border-color: #c9b890;
@@ -321,7 +321,7 @@ tooltip {
 }
 
 #custom-playerctl {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-width: 2px;
   border-style: solid;
   border-color: #c9b890;
@@ -331,7 +331,7 @@ tooltip {
 }
 
 #cava {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   border-radius: 4px 0px 0px 4px;
   border-width: 2px;
   border-style: solid;
@@ -341,7 +341,7 @@ tooltip {
 }
 
 #clock {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -351,7 +351,7 @@ tooltip {
 }
 
 #pulseaudio {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-width: 2px;
@@ -363,7 +363,7 @@ tooltip {
 }
 
 #cpu {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -374,7 +374,7 @@ tooltip {
 }
 
 #temperature {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -385,7 +385,7 @@ tooltip {
 }
 
 #backlight {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -396,7 +396,7 @@ tooltip {
 }
 
 #battery {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -407,7 +407,7 @@ tooltip {
 }
 
 #custom-weather {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-radius: 4px 0px 0px 4px;
   border-width: 2px;
@@ -420,7 +420,7 @@ tooltip {
 }
 
 #custom-notification {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -432,7 +432,7 @@ tooltip {
 }
 
 #custom-power {
-  background: rgba(40, 40, 40, 0.76);
+  background: rgba(40, 40, 40, 0.9);
   color: #ddca9e;
   border-width: 2px;
   border-style: solid;
@@ -442,4 +442,23 @@ tooltip {
   margin-left: 0px;
   margin-right: 4px;
   padding-right: 14px;
+}
+
+menu {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #c9b890;
+  background: rgba(40, 40, 40, 0.9);
+  border-radius: 10px;
+}
+
+menuitem:focus label,
+menuitem:hover label {
+  color: #010101;
+  background: #c9b890;
+}
+
+menuitem:focus,
+menuitem:hover {
+  background: #c9b890;
 }
