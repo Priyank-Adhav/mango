@@ -10,10 +10,10 @@ dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 swaync -c ~/.config/mango/swaync/config.jsonc -s ~/.config/mango/swaync/style.css >/dev/null 2>&1 &
 
 # night light
-wlsunset -T 3501 -t 3500 >/dev/null 2>&1 &
+gammastep -O 10000 >/dev/null 2>&1 &
 
 # wallpaper
-swaybg -i ~/.config/mango/wallpaper/czd.png >/dev/null 2>&1 &
+swaybg -i ~/.config/mango/wallpaper/flower.png >/dev/null 2>&1 &
 
 # top bar
 waybar -c ~/.config/mango/waybar/config.jsonc -s ~/.config/mango/waybar/style.css >/dev/null 2>&1 &
